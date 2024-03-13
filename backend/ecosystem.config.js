@@ -4,7 +4,6 @@ const {
   DEPLOY_USER,
   DEPLOY_HOST,
   DEPLOY_PATH,
-  DEPLOY_FOLDER,
   DEPLOY_REF,
   DEPLOY_REPO,
 } = process.env;
