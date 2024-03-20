@@ -2,6 +2,6 @@
 
 ## Web-адреса
 
-* IP-адрес: 158.160.154.148
+* IP-адрес: 158.160.151.210
 * frontend: mesto.vartexxx.nomoredomainswork.ru
 * backend: api.mesto.vartexxx.nomoredomainswork.ru
